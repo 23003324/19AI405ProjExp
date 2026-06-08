@@ -68,6 +68,7 @@ if __name__ == "__main__":
 ```
 ## OUTPUT:
 <img width="401" height="386" alt="image" src="https://github.com/user-attachments/assets/4fc71c34-e8ef-45ad-8a81-ea4207261bb0" />
+
 ## RESULT:
 Thus the python program to implement a sudoko solver from scratch is executed sucessfully.
 
